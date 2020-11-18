@@ -65,7 +65,7 @@ public class PantallaDosDigitos
             valorAlmacenado = valorAlmacenado + 1;
         }
         else {
-            valorAlmacenado = 1;
+            valorAlmacenado = valorInicial;
         }
     }
 }
